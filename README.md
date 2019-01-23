@@ -1,2 +1,1 @@
-# document
-My PhD Dissertation
+This is David's PhD Dissertation! 
