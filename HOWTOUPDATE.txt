@@ -1,0 +1,7 @@
+How to Update if things go wrong
+
+go to _bookdown.yml and add 
+
+output_dir: "docs"
+
+to configuration line
