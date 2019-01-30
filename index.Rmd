@@ -16,8 +16,9 @@ description: "This dissertation explores both individual and musical features th
 library(tidyverse)
 ```
 
-
 # Significance of the Study
+
+> LAST UPDATE JAN 30TH 2019
 
 ## Rationale
 
