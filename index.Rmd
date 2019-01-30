@@ -19,16 +19,14 @@ library(tidyverse)
 
 # Significance of the Study
 
-> VERSION LAST UPDATED JAN 23RD 
-
 ## Rationale
 
 All students pursing a Bachelor's degree in Music from universities accredited by the National Association of Schools of Music must learn to take melodic dictation [@NationalAssociationSchools2018, §VIII.6.B.2.A].
-Melodic dictation is a cognitively demanding process that requires students to listen to a melody, retain it in memory, and then use their knowledge of Western musical notation in order to recreate the mental image of the melody on paper in a limited time frame.
-As of 2019 there are 644 Schools of Music belonging to National Association of Schools of Music (NASM)^[For a list of Schools, please look [here](https://nasm.arts-accredit.org/directory-lists/accredited-institutions/search/?institutionname=&city=&state=&country=&search=true)], meaning that hundreds of students every year will be expected to learn this challenging task as part of their aural skills education.
+Melodic dictation is a cognitively demanding process that requires students to hear a melody, then without any access to an external reference, write the melody down on paper in a limited time frame.
+As of 2019 there are 644 Schools of Music belonging to National Association of Schools of Music (NASM)^[For a list of Schools, please look [here](https://nasm.arts-accredit.org/directory-lists/accredited-institutions/search/?institutionname=&city=&state=&country=&search=true)], meaning that thousands of students every year will be expected to learn this challenging task as part of their aural skills education.
 The implicit logic is that as one improves in their ability to take melodic dictation, this practice of critical and active listening develops one's ability to "think in music" [@bestMusicCurriculaFuture1992; @karpinskiAuralSkillsAcquisition2000] and thus become a more competent musician.
 
-Despite its ubiquity in curricula within School of Music settings, research on topics pertain to how aural skills are acquired is limited at best.
+Despite its ubiquity in curricula within School of Music settings, research that explains how people learn melodies is limited at best.
 The fields of music theory and cognitive psychology are best positioned to make progress on this question, but often the skills required to be well versed in their of these subjects are disparate, published in separate journals, and the research with overlap is scarce.
 This problem is not new and there have been repeated attempts to bridge the gap between practitioners of aural skills and people in cognitive psychology [@butlerBridgesUnbuiltComparing1993; @davidbutlerWhyGulfMusic1997a; @klonoskiImprovingDictationAuralSkills2006;@klonoskiPerceptualLearningHierarchy2000; @pembrookSendHelpAural1990;@karpinskiAuralSkillsAcquisition2000].
 Literature from music theory has established conceptual frameworks regarding aural skills [@karpinskiAuralSkillsAcquisition2000]^[More aural skills textbooks here], cognitive psychology literature has explored factors that might contribute to melodic perception [@dowlingExpectancyAttentionMelody1990; @dowlingScaleContourTwo1978; @dowlingTonalStrengthMelody1991; @halpernMemoryMelodies2010], and applied literature from the field of music education [@buonviriEffectsTwoListening2017; @buonviriMelodicDictationInstruction2015; @paneyEffectDirectingAttention2016].
@@ -44,7 +42,7 @@ I do this by synthesizing literature from both music theory and music cognition 
 
 ## Chapter Overview 
 
-In this first chapter, I introduce the process of melodic dictation and discuss factors that would presumably could play a role in taking melodic dictation building off of the work of Gary Karpinski [@karpinskiAuralSkillsAcquisition2000; @karpinskiModelMusicPerception1990]
+In this first chapter, I introduce the process of melodic dictation and discuss factors that presumably could play a role in taking melodic dictation building off of the work of Gary Karpinski [@karpinskiAuralSkillsAcquisition2000; @karpinskiModelMusicPerception1990]
 The chapter introduces both a theoretical background and rationale for using methods from both computational musicology and cognitive psychology in order to answer questions about how individuals learn melodies.
 In order to organize the disparate literature, I put forward a taxonomy of factors that are assumed to contribute to an individual's ability to take melodic dictation and discuss each in turn.
 This chapter outlines the factors hypothesized to contribute to an individual's ability to learn melodies, incorporating both individual and musical parameters.
@@ -62,7 +60,7 @@ The chapter concludes by putting forward a novel theory of musical memory-- The 
 I show how this hypothesis can be applied in pedagogical settings to create a more linear path to success in the aural skills classroom among students.
 
 In my fourth chapter, I introduce a novel corpus of 783 digitized melodies encoded in the ```**kern```
-format.
+format [@huronHumdrumToolkitReference1994].
 This chapter, encapsulating the encoding process, the sampling criteria, and the situation of corpus methodologies within the broader research area, will go over summary data and also discuss how the corpus could be used to generate hypotheses for future experiments.
 This dataset will serve as a valuable resource for future researchers in music, psychology, and the digital humanities. 
 

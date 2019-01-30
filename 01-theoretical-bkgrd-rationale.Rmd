@@ -5,11 +5,10 @@
 Melodic dictation is the process in which an individual hears a melody, retains it in memory, and then uses their knowledge of Western musical notation to recreate the mental image of the melody on paper in a limited time frame.
 For many, becoming proficient at this task is at the core of developing one's aural skills [@karpinskiModelMusicPerception1990].
 For over a century, music pedagogues have valued melodic dictation^[In his highly influential book _Aural Skills Acquisition: The Development of Listening, Reading, and Performing Skills in College-Level Musicians_, @karpinskiAuralSkillsAcquisition2000 documents this sentiment in music pedagogy circles by highlighting poetic adages from Romantic composer Robert Schumann in the mid 19th century through 21st century music educator Charles Elliott in the opening of his book, thus providing concrete examples of the belief that improving one's aural skills, or _ear_, is a highly sought after advanced skill.] which is evident from the fact that most aural skills texts with content devoted to honing one's listening skills have sections on melodic dictation [@karpinskiAuralSkillsAcquisition2000].
-Additionally, any school accredited by the National Association of Schools of Music in North America requires students to learn this skill  [@NationalAssociationSchools2018 §VIII.6.B.2.A].
 
 Yet despite this tradition and ubiquity, the rationales as to _why_ it is important for students to learn this ability often comes from some sort of appeal to tradition or underwhelming anecdotal evidence.
 The argument tends to go that time spent learning to take melodic dictation results in increases in near transfer abilities after an individual acquires a certain degree of proficiency learning to take melodic dictation. 
-Rationales given for why students should learn melodic dictation has even been described by Gary Karpinski as being based on "comparatively vague aphorisms about mental relationships and intelligent listening" [@karpinskiModelMusicPerception1990, p.192], thus leaving the evidence for the argument for learning to take melodic dictation not being well supported. 
+Rationales given for why students should learn melodic dictation has even been described by Karpinski as being based on "comparatively vague aphorisms about mental relationships and intelligent listening" [@karpinskiModelMusicPerception1990, p.192], thus leaving the evidence for the argument for learning to take melodic dictation not being well supported. 
 
 Some researchers have taken a more skeptical stance and asserted that the rationale for why we teach melodic dictation deserves more critique.
 For example, Klonoski in writing about aural skills education aptly questions "What specific deficiency is revealed with an incorrect response in melodic dictation settings?" [@klonoskiImprovingDictationAuralSkills2006].
@@ -28,7 +27,7 @@ It has been nearly two decades since _Aural Skills Acquistion_ was first publish
 
 ### Describing Melodic Dictation 
 
-Much of the foundational theoretical work on the topic of melodic dictation comes from Gary Karpinski.
+Much of the foundational theoretical work on the topic of melodic dictation comes from Karpinski.
 Summarized most recently in his _Aural Skills Acquisition_ [@karpinskiAuralSkillsAcquisition2000]-- though first presented in an earlier article [@karpinskiModelMusicPerception1990]-- Karpinski proposes a four-step model of melodic dictation.^[This four stage process sythesizes earlier research where in Karpinski 1990 he notes two other models of melodic dictation, one from Rogers where he says there are 2 processes, another from Thomas who says there are 15] 
 
 The four steps of Karpinski's model include
@@ -49,7 +48,7 @@ Karpinski's **hearing** stage involves the initial perceptions of the sound at t
 If the listener is not actively engaging in the task because of factors such as "boredom, lack of discipline, test anxiety, attention deficit disorder, or any number of other causes" then any further processes later down the model will be detrimentally effected. 
 Karpinski notes that these types of interferences are normally "beyond the traditional jurisdiction of aural skills instruction", but I will later argue that the concept of willful attention, when re-conceptualized as working memory, may actually play a larger role in the melodic dictation process than is claimed here.  
 
-The **short-term melodic memory** stage in his process is where musical material is held in active memory.
+The **short-term melodic memory** stage in this process references the point in a melodic dictation where musical material is held in active memory.
 From Figure 1 it appears that the stage is not conceptualized as an active process where something like active rehearsal would occur, but rather just consists soley of passive mental representation.
 Though Karpinski does not posit any sort of active process in the short term melodic memory stage, he does suggest there are two separate memory encoding mechanisms, one for contour, and one for pitch.
 He arrives at these two mechanisms by using both empirical qualitative interview evidece as well as noting literature from music perception that supports this claim for contour [@dowlingScaleContourTwo1978;@dewittRecognitionNovelMelodies1986] and literature suggesting that memory for melodic material is dependant on enculturation [@ouraMemoryMelodiesSubjects1988;@handelListeningIntroductionPerception1989; @dowlingExpectancyAttentionMelody1990]. 

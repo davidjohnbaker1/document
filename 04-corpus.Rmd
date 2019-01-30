@@ -1,7 +1,32 @@
 # Hello, Corpus
 
--- chapter will basically just be reference manual for corpus?
-NO
+
+## Introduction
+
+> Important for music research to have new data
+> Corpora are important 
+
+
+In this chapter I introduce a new corpus of sight singing materials from Berkowitz.
+Contains melodies composed for SS, contains melodies form literature.
+Demonstrate this by comparing various features in this corpus with essen with tools of last chapter.
+Imporantly, reperesents set of implicitly held musical undersanding.
+End with discussion following London of "representative corpus"
+People can now use this corpus for a lot of things. 
+
+
+## Rationale
+
+Corpus work helps inform how we see the world bc it generalizes.
+This was first done in linguistics.
+Paragraph here on gw book.
+Note that there is general split between sylometery studies and using it for NLP.
+
+Similar paths were taken in music.
+We have the MP trajectory that he outlines.
+Many of the early studies just summerise.
+Though they are largely situated in Meyer idea that genre is complex system of relations.
+
 
 * COmputational musicology needs corpora
 * Here is a history of that
@@ -27,17 +52,7 @@ kind of like a markov chain and leonard meyer.
 * Origin outside music, current state IN music, limitations
 * Describe features of music in corpus
 * Compare it to the features in the Essen Collection
-* then talk about using IC idea from previosu chapter, how that can be applied pegagoically
 
-Corpus work helps inform how we see the world bc it generalizes.
-This was first done in linguistics.
-Paragraph here on gw book.
-Note that there is general split between sylometery studies and using it for NLP.
-
-Similar paths were taken in music.
-We have the MP trajectory that he outlines.
-Many of the early studies just summerise.
-Though they are largely situated in Meyer idea that genre is complex system of relations.
 
 Interesting point here is the scoping between what a corpsu represents.
 On one side we can have the collected works of a dead musician.
@@ -139,43 +154,4 @@ Find that pearce paper about historical listening.
 
 
 
-
-## Brief review of Chapter 4 on corpus (Language to reflect journal submission)
-### Corpus outside of music
-### Corpus in Music
-### The point is that it implicitly represents humand knowledge
-### IDyOM 1
-### IDyOM 2
-### IDyOM 3
-### Huron suggestions that starts of melodies relate to mental rotaiton 
-### Other Huron claims
-## Note problem with using corpus is making corpus
-### Many are used on Essen
-### Brinkman says Essen Sucks
-### If going to make generlizable claims, need to always have new data 
-## Solem duty to encode and report on corpus
-### Justin London Article on what makes it into a corpsu
-### Though I just encoded the whole thing because in my heart of hearts I'm a Bayesian
-## The Corpus
-### History of Sight Singign books
-### Assumed to be where long term store comes from (adumbrate computational model)
-### Lots of melodies in ascending order of difficulty, grouped appropriately though? Utah guy
-### Why I encoded it in XML  
-### Is it legal?
-## Descriptive Stats of Corpus
-### Why?
-#### For pedagogical purposes
-#### For experimental purposes
-#### For computational idexing (get me melody with x tonal score)
-#### Could serve as representation of implicitly learned expectations for future modeling
-### Feature Level
-#### What features are normally distributed
-#### Correlated feature problem
-#### big ~facet wrap of the whole thing
-#### Could do dimensonality reduction (Baker, Harrison, others) but then loose understanding
-### n-gram
-#### Big solfege n-gram table
-#### Dependent on representation (notes, solfege, mint)
-#### Shiny app of n-gram heatmap with Peter
-#### Idea would be that hotter n-grams lend them selves to better chunking (but need better word than chunking)
 
