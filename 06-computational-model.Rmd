@@ -102,7 +102,7 @@ The advantage of operationalizing how an individual hears a melody like this is 
 Additionally, individuals with higher working memory capacity would be able to take in more musical information.
 
 ```{r, echo=FALSE, fig.cap="Cadential Excerpt from Schubert's Octet in F Major",fig.align='center', out.width="100%"}
-knitr::include_graphics("img/SchubertF.pdf")
+knitr::include_graphics("img/SchubertF.png")
 ```
 
 ```{r, echo=FALSE, fig.cap="Cumulative Information in Schubert Octet Excerpt",fig.align='center', out.width="75%"}
@@ -198,13 +198,13 @@ Below the model in Figure 7.4, I provide a brief walk through of one iteration o
 ### Computational Model 
 
 ```{r, echo=FALSE, fig.cap="Formal Model",fig.align='center', out.width="100%"}
-knitr::include_graphics("img/Model.pdf")
+knitr::include_graphics("img/Model.png")
 ```
 
 ### Example
 
 ```{r, echo=FALSE, fig.cap="Model Example",fig.align='center', out.width="100%"}
-knitr::include_graphics("img/Model Graphic.pdf")
+knitr::include_graphics("img/Model Graphic.png")
 ```
 
 The example above shows one iteration of the model run using the musical example from above using a hypothetical corpus for the pattern matching.

@@ -1,6 +1,6 @@
 # Theoretical Background and Rationale {#intro}
 
-## What is melodic dictation? and Why?
+## Melodic Dictation
 
 Melodic dictation is the process in which an individual hears a melody, retains it in memory, and then uses their knowledge of Western musical notation to recreate the mental image of the melody on paper in a limited time frame.
 For many, becoming proficient at this task is at the core of developing one's aural skills [@karpinskiModelMusicPerception1990].
@@ -12,7 +12,7 @@ Rationales given for why students should learn melodic dictation has even been d
 
 Some researchers have taken a more skeptical stance and asserted that the rationale for why we teach melodic dictation deserves more critique.
 For example, Klonoski in writing about aural skills education aptly questions "What specific deficiency is revealed with an incorrect response in melodic dictation settings?" [@klonoskiImprovingDictationAuralSkills2006].
-Earlier researchers like Potter, in their own publications, have noted how they have been baffled that many musicians do not actually keep up with their melodic dictation abilities after the class ends [@potterIdentifyingSucessfulDictation1990], but presumably go on to have successful and fulfilling musical lives. 
+Earlier researchers like Potter, in their own publications, have noted how they have been baffled that many musicians do not actually keep up with their melodic dictation abilities after their formal educaiton ends [@potterIdentifyingSucessfulDictation1990], but presumably go on to have successful and fulfilling musical lives. 
 Additionally, suggesting that people who can hear music and then are unable to write it down, thus are unable to think _in_ music [@karpinskiAuralSkillsAcquisition2000], seems somewhat exclusionary to musical cultures that do not depend on any sort of written notation.
 
 Though despite this skepticism towards the topic, melodic dictation remains at the forefront of many aural skills classrooms.
@@ -27,7 +27,7 @@ It has been nearly two decades since _Aural Skills Acquistion_ was first publish
 
 ### Describing Melodic Dictation 
 
-Much of the foundational theoretical work on the topic of melodic dictation comes from Karpinski.
+Much of the foundational theoretical work on the topic of melodic dictation comes from the work of Gary Karpinski.
 Summarized most recently in his _Aural Skills Acquisition_ [@karpinskiAuralSkillsAcquisition2000]-- though first presented in an earlier article [@karpinskiModelMusicPerception1990]-- Karpinski proposes a four-step model of melodic dictation.^[This four stage process sythesizes earlier research where in Karpinski 1990 he notes two other models of melodic dictation, one from Rogers where he says there are 2 processes, another from Thomas who says there are 15] 
 
 The four steps of Karpinski's model include
@@ -37,8 +37,8 @@ The four steps of Karpinski's model include
 3. Musical Understanding 
 4. Notation
 
-and occur as a looping process depicted in Figure \@ref(fig:flowchart).
-The model is discussed extensively in both this original article [@karpinskiModelMusicPerception1990] and throughout the third chapter in his book [@karpinskiAuralSkillsAcquisition2000].
+and occur as a looping process which I have reproduced depicted in Figure \@ref(fig:flowchart).
+The model is discussed extensively in both the original article [@karpinskiModelMusicPerception1990] and throughout the third chapter in his book [@karpinskiAuralSkillsAcquisition2000].
 
 ```{r flowchart, echo=FALSE, fig.cap="Karpinski Idealized Flowchart of Melodic Dictation",fig.align='center', out.width="100%"}
 knitr::include_graphics("img/karpinski31.png")
@@ -49,7 +49,7 @@ If the listener is not actively engaging in the task because of factors such as 
 Karpinski notes that these types of interferences are normally "beyond the traditional jurisdiction of aural skills instruction", but I will later argue that the concept of willful attention, when re-conceptualized as working memory, may actually play a larger role in the melodic dictation process than is claimed here.  
 
 The **short-term melodic memory** stage in this process references the point in a melodic dictation where musical material is held in active memory.
-From Figure 1 it appears that the stage is not conceptualized as an active process where something like active rehearsal would occur, but rather just consists soley of passive mental representation.
+From Figure \@ref(fig:flowchart) it appears that the stage is not conceptualized as an active process where something like active rehearsal would occur, but rather just consists soley of passive mental representation.
 Though Karpinski does not posit any sort of active process in the short term melodic memory stage, he does suggest there are two separate memory encoding mechanisms, one for contour, and one for pitch.
 He arrives at these two mechanisms by using both empirical qualitative interview evidece as well as noting literature from music perception that supports this claim for contour [@dowlingScaleContourTwo1978;@dewittRecognitionNovelMelodies1986] and literature suggesting that memory for melodic material is dependant on enculturation [@ouraMemoryMelodiesSubjects1988;@handelListeningIntroductionPerception1989; @dowlingExpectancyAttentionMelody1990]. 
 Since its publication in 2000, this area of research has expanded with other reearchers also demonstrating the effects of musical acculturation via exposure [@eerolaExpectancySamiYoiks2009; @stevensMusicPerceptionCognition2012;@pearceAuditoryExpectationInformation2012].
@@ -61,7 +61,7 @@ Chunking is the process in which smaller musical elements can be fused together 
 The concept of chunking is very helpful as a pedagogical tool, but as detailed below, is a complicated concept to pin down how it works.
 
 After some musical material is extracted, then represented in memory, the next step in the process is **musical understanding**.
-At this point in the dictation the dictator needs to take the extracted musical material that is represented in memory and the use their music theoretic knowledge in order to comprehend any sort of hierarchical relationships between notes, common rhythmic groupings, or any sorts of tonal functions.
+At this point in the dictation, the indivudal taking the dictation needs to take the extracted musical material that is represented in memory and the use their music theoretic knowledge in order to comprehend any sort of hierarchical relationships between notes, common rhythmic groupings, or any sorts of tonal functions.
 This is the point in the process where solimization of either or both pitch and rhythm, and musical material might be understood in terms of relative pitch.
 In the model solimization takes place later, but it is worth questioning if it is possible to dissacociate relative pitch relations from the qualia of the tones themselves [@arthurPerceptualStudyScaledegree2018].
 For Karpinski, the more quickly what is represented in musical memory can be understood, the more quickly it can then be tranlated at the final step of notation.
@@ -90,7 +90,7 @@ knitr::include_graphics("img/musicalexamples/MMD_Figure2-1.png")
 ```
 
 ```{r shortmelody2, echo=FALSE, fig.cap="Atonal Melody",fig.align='center', out.width="80%"}
-knitr::include_graphics("img/musicalexamples/MMD_Figure2-1.png")
+knitr::include_graphics("img/musicalexamples/MMD_Figure3-1.png")
 ```
 
 Presumably different people with different levels of abilities will perform differently on different melodies and while helpful as a pedaogogical tool, this one size-fits-all approach to melodic dictation is not robust.
@@ -136,6 +136,8 @@ These are important to note since from an empirical standpoint, both the task as
 ## Individual Factors
 
 ### Cognitive
+
+* [@coumelSecondLanguageAccent2019] -- musical training, rather than WM predicts faking a second langauge in music 
 
 Research from cognitive psychology suggests that individuals differ in their perceptual and cognitive abilities in ways that are both stable throughout a lifetime and are not easily influened by short term traning.
 When investigated on a large scale, these abilities-- such as general intelligence or working memory capacity-- predict a wealth of human behavior on a large scale ranging from longevity, annual income, ability to deal with stressful life events, and even the onset of Alzheimer's disease [@ritchieIntelligenceAllThat2015; @unsworthAutomatedVersionOperation2005]. 

@@ -1,19 +1,121 @@
 # Hello, Corpus
 
 
-## Introduction
+## Rationale 
+
+
+One of the key findings of any scientific discovery is the ability to reproduce the finding.
+
+In this chapter, I introduce a new corpus of sight-singing melodies based on the the pedagogical text "A New Approach to Sight Singing" [@berkowitzNewApproachSight2011].
+The corpus contains 783 monophonic melodies that have been digitially encoded in the kern format [@huronHumdrumToolkitReference1994] and contain both melodies specifically composed for use in the Aural Skills classroom and examples of melodies from outside musical literature. 
+After introducing the corpus, I compare the Sight-Singing corpus with the Essen Folk Song [@schaffrathEssenFolkSong1995] collection in order to highlight the degree of variability with musical features in a corpus.
+
+
+* COmputational musicology needs corpora
+* Here is a history of that
+* And it's important for this to be representative
+* What do i think rrepresntaive means
+
+## History And Why It Matters 
+
+- People have been encodign music for a while 
+- Began in 1960s
+- Important to think about what people were into then
+- Lots driven by funding bodies and having focus on global quesitons
+- Lots driven by other factors?
+- Eventually see people getting into Lomax and Savage world
+- This is obvious overlap with comparative and ethonomusicology
+- tensions addressed by savage
+- going to happen no matter what haha
+- 
 
 > Important for music research to have new data
-> Corpora are important 
+
+## Representation of Corpora 
+
+- Many of the studies in the past have taken general historical approach to corpus
+- This is different than people who see it more as representation of behavior
+- For example look at all the Pat Savage stuff and his new article 
+- And then we have the idea that a corpus can be trained to be representation of cognition
+- But in statistical parlance, it's really what we are thinking of them as
+- Useful to think about musical data and what they represent
+- Take this ANOVA paper that basically has just come to me here by Gelman 
+
+- In historical context generally wrong to think of data as being re-generated
+- No more beehtoven 
+- Fixed effects are assumed constant across individuals
+- Often taken as something like Gender or Age 
+- Can be either X or Y, that's it 
+- We see this kind of thinking in these corpus papers 
+- Would also see this like in that genre type paper 
+
+- In the music as behavior ala Savage school 
+- Idea is that over the course of time depending on agency, can model it with features changing
+- Historical interest in this with the broadside ballads
+- People in the west have done thi
+- Savage notes that people in the east have done this 
+- Mixes both humanities style historicism with quasi-scientific modeling of transmission
+
+- Then lastly we can use corpus to represent cogniitive states
+- need active process for this
+- Much like NLP and textbook
+- But isntead we have that with IDyOM
+- Idea here is that the corpus is representing something manifestation of cognition 
+- And we need to be able to track all these schema (Dom and Bryn)
+
+- so when we run a test, need to think more about generative assumptions
+- And of course this leads into abductive process
+- but of course ian cross cognitive approach is best 
+- Historical is bad on category, tho idk if people do that
+- behiavoral is messy 
+- but it interacts with cognition
+- cog models are sucessful
+- and imporantly, if they are LIKE LINGUISTIC CONVERSATION 
+- Then when we swap them out, should get same results, models robust
+- Also because taking this approach also links to general theory of human behavior
+- SLH, PPH, Manifestation in music
+- So given all that, here is a new corpuS
+
+So first think when people use corpora they need to be very clear on what they think their corpus is representing.
+And thus the claims that it can make
+- Harmonic analysis is especially guilty of this
+- Take for example Chris White and Quinn paper that just Machine learns
+- Know that models are dependent on data
+- Not only that, but how the data is encoded refelects epistomological assumptions
+- MEI captures as we notate it
+- But returnt to textbook here based on 
+
+- empiricist as actually occurs
+- ratonalists langauge or harmony module of the mind 
+- closer to chomsky linguitic compotence -- knowledge of structure in the midn
+- linguistic performance -- what affordances fuck this up 
+
+Generative linguistics has argued that one can
+isolate linguistic competence and describe it in isolation, while empiricist
+approaches generally reject this notion and want to describe actual use
+of language.
+
+chomsky is categorical -- yes no
+better to go probabsilitic 
 
 
-In this chapter I introduce a new corpus of sight singing materials from Berkowitz.
-Contains melodies composed for SS, contains melodies form literature.
-Demonstrate this by comparing various features in this corpus with essen with tools of last chapter.
+
+
+- Example of this is that 
+
+
+## Corpus Introduction 
+
+## Corpus Comparision
+
+History of the Essen Folk Song
+
+- s
+
+
 Imporantly, reperesents set of implicitly held musical undersanding.
 End with discussion following London of "representative corpus"
 People can now use this corpus for a lot of things. 
-
 
 ## Rationale
 
@@ -28,11 +130,6 @@ Many of the early studies just summerise.
 Though they are largely situated in Meyer idea that genre is complex system of relations.
 
 
-* COmputational musicology needs corpora
-* Here is a history of that
-* And it's important for this to be representative
-* What do i think rrepresntaive means
-* In this chapter I introduce new SS corpus.
 
 Give basic summary statistics on the corpus.
 Compare it as a corpus to essen.
