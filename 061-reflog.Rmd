@@ -1,20 +1,16 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Reference Log 
 
 ## To Incorporate
 
+* Grutzmaker 
 * [@margulisModelMelodicExpectation2005] -- Margulis Model 
 * [@nicholsScoreOneJazz2018] -- Specialty jazz background helps in tasks, WMC
-* [@NASM201718HandbookPdf2018] -- Fix intext
-* [@schumann1860musikalische] -- Quote about why people should do ear training
-* [@smith1934solfege] -- Quote from K2001 about why people should do ear training
+* [@schumannMusikalischeHausundLebensRegeln1860]
+* [@smithSolfegeEssentialMusicianship1934]
 * [@longRelationshipsPitchMemory1977] -- Musical Characteristics predict memory
 * [@taylorStrategiesMemoryShort1983] -- Great citation that lots of things change memory, even structural! 
-* [@tallaricoStudyThreePhase1974] -- Long boring talk on STM, LTM
+* tallaricoStudyThreePhase1974 -- Long boring talk on STM, LTM
+* Krof on alternatives to melodic dictation
 * [@ouraConstructingRepresentationMelody1991a] -- Awful experimental design that says people use structual tones
 * [@buonviriExplorationUndergraduateMusic2014] -- Call for experimental, suggestions as to what factors might contribute, use of deductive reasoning, qualitative
 * [@buonviriEffectsPreparatorySinging2015] -- People need to focus right away, not establish, distractors
@@ -26,12 +22,12 @@ output:
 * [@pembrookInterferenceTranscriptionProcess1986] -- Effects of melodies, also how people do it. Interesting that they too effect of melodies, but talka bout things in terms of notes and not in terms of information content. Thought ot have an experiment where the n-grams that are more common are easier to write down. Lots of good charts too. 
 * [@paneyEffectDirectingAttention2016] -- It's not good if you tell people what to do when they are dictating, article has a lot of good review for dictation materials to add to the 'toRead' folder.
 * [@fournierCognitiveStrategiesSightsinging2017a] -- Good references that people are awful at Aural Skills, Also suggestions that people are not that great at transfer, and some stuff to suggest academic abililty is intertwined in all of this. Good reference for when starting to talk about untangling the mess that is aural skills. 
-* [@berzWorkingMemoryMusic 1995] -- Add on a new module to the WMC model of baddel with music, presents some evidence for why this theoretically should be included, but actually takes examples of dictation. A lot of this article felt like things that i was reinventing...not  good.
-* [@atkinsonSomeThoughtsOnTrying] -- Proof some other people are starting to think in terms of pedagogical schemas
+* [@berzWorkingMemoryMusic1995] -- Add on a new module to the WMC model of baddel with music, presents some evidence for why this theoretically should be included, but actually takes examples of dictation. A lot of this article felt like things that i was reinventing...not  good.
+* [@atkinsonHUMANMEMORYPROPOSED1968] -- Proof some other people are starting to think in terms of pedagogical schemas
 * [@klonoskiPerceptualLearningHierarchy2000] -- Music cognition needs to talk to aural skills more, also need to unbind theory routine with aural skills and think of things more as in a perceptual learning hierarchy 
 * [@klonoskiImprovingDictationAuralSkills2006] -- great quotes that when people get something wrong with aural skills, what does that even mean, lack of transfer effects, article ends with ways to get better at things
 * [@pembrookSendHelpAural1990] -- Survey of what people in the late 1980s were doing in terms of aural skills pedagogy
-* [@karpinskiModelMelodicPerception1990] -- addresses why Gary Karpinski thinks we should teach melodic dictation
+* [@karpinskiModelMusicPerception1990] -- addresses why Gary Karpinski thinks we should teach melodic dictation
 * [@potterIdentifyingSucessfulDictation1990] -- dictation teacher surprised that people don't keep up their dictaiton skills quote
 
 ## Chapter 3
