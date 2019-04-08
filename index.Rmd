@@ -27,8 +27,6 @@ library(tidyverse)
 
 # Significance of the Study
 
-> LAST UPDATE APRIL 7th 2019
-
 ## Rationale
 
 All students pursuing a Bachelor's degree in Music from universities accredited by the National Association of Schools of Music must learn to take melodic dictation [@NationalAssociationSchools2019, §VIII.6.B.2.A].
